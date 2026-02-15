@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+https://icons8.com/icon/7jrHorBRorpX/telegram-app
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://icons8.com/icon/7jrHorBRorpX/telegram-app" alt="pytorch" height="42px"/> </a>
 <!--
 **Tulen4eG/Tulen4eg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
